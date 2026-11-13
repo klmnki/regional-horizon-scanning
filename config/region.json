@@ -1,0 +1,98 @@
+{
+  "name": "AI × Economy regional scan",
+  "timezone": "Europe/Istanbul",
+  "intended_local_time": "08:00",
+  "max_per_lane": 3,
+  "news_windows_hours": [
+    24,
+    72,
+    168
+  ],
+  "analytical_discovery_days": [
+    1,
+    7,
+    30
+  ],
+  "lanes": [
+    {
+      "id": "UA",
+      "name": "Ukraine",
+      "kind": "signals",
+      "languages": "Ukrainian; English; Russian where pertinent",
+      "source_families": "State Statistics Service; National Bank; digital/economy/education ministries; IT/employer groups; unions; independent Ukrainian/regional reporting",
+      "query_seeds": "штучний інтелект продуктивність; ШІ зайнятість зарплати; експорт ІТ; початківці; AI Ukraine economic impact",
+      "pathways": "Service exports; reconstruction; task redesign; domestic value capture; entry roles; energy/compute constraints",
+      "caution": "Separate AI effects from war, mobilisation, displacement, reconstruction and power shocks. Do not assume national coverage."
+    },
+    {
+      "id": "KZ",
+      "name": "Kazakhstan",
+      "kind": "signals",
+      "languages": "Kazakh and Russian; English",
+      "source_families": "Bureau of National Statistics; National Bank; labour/digital ministries; Atameken; universities; worker bodies; independent local/regional reporting",
+      "query_seeds": "жасанды интеллект еңбек өнімділігі; жасанды интеллект жұмыс; ИИ занятость производительность Казахстан; SME AI adoption",
+      "pathways": "Industrial/service productivity; SME diffusion; local-language capability; compute investment and use",
+      "caution": "National announcements or hub launches do not demonstrate utilisation, firm adoption or job effects."
+    },
+    {
+      "id": "UZ",
+      "name": "Uzbekistan",
+      "kind": "signals",
+      "languages": "Uzbek Latin and Cyrillic; Russian; English",
+      "source_families": "National Statistics Committee; Central Bank; labour/digital/education institutions; IT Park; business/worker bodies; independent local reporting",
+      "query_seeds": "sun'iy intellekt mehnat unumdorligi; сунъий интеллект иш ўринлари; ИИ рынок труда Узбекистан; outsourcing exports",
+      "pathways": "Service exports; formalisation; youth entry; SME access; migrant-income and external-demand pathways",
+      "caution": "Distinguish export/participant targets from realised income, retained value, jobs and wages."
+    },
+    {
+      "id": "AM",
+      "name": "Armenia",
+      "kind": "signals",
+      "languages": "Armenian; English; Russian where relevant",
+      "source_families": "Statistical Committee; Central Bank; high-tech/economy/labour institutions; technology/business associations; universities; unions; independent reporting",
+      "query_seeds": "արհեստական բանականություն աշխատաշուկա; արհեստական բանականություն տնտեսություն; ИИ экономика Армения; AI productivity Armenia",
+      "pathways": "Research/compute investment; service exports; paid local opportunities; retention and ownership",
+      "caution": "Research capacity, foreign investment and selected success stories are not population-wide employment outcomes."
+    },
+    {
+      "id": "TR",
+      "name": "Türkiye",
+      "kind": "signals",
+      "languages": "Turkish and English",
+      "source_families": "TÜİK; Central Bank; İŞKUR; industry/labour/education institutions; TÜSİAD/TOBB; unions; universities; independent sector/regional reporting",
+      "query_seeds": "yapay zeka verimlilik; yapay zeka istihdam ücretler; KOBİ yapay zeka; genç çalışanlar; AI economic impact Türkiye",
+      "pathways": "Manufacturing and services; SME integration; productivity and prices; wages; exports; entry opportunities",
+      "caution": "Separate exchange rates, inflation and wider industrial restructuring from AI-attributed effects."
+    },
+    {
+      "id": "MD",
+      "name": "Moldova",
+      "kind": "signals",
+      "languages": "Romanian and Russian; English; Gagauz/Ukrainian when relevant",
+      "source_families": "BNS; NBM; economy/labour/education institutions; ANOFM; MITP/EDIH; employers/unions; youth and civil society; independent regional reporting",
+      "query_seeds": "inteligență artificială productivitate muncă salarii; ИИ занятость Молдова; tineri NEET; export servicii",
+      "pathways": "Continue labour/AI/youth intersection; add SME productivity, value capture, trade, finance and public economic choices",
+      "caution": "Compare with earlier canonical records; distinguish domestic evidence from transfer hypotheses."
+    },
+    {
+      "id": "ECA",
+      "name": "Europe and Central Asia regional",
+      "kind": "signals",
+      "languages": "English plus relevant original country languages",
+      "source_families": "World Bank ECA; EBRD; ILO regional; OECD Eurasia; IMF; regional research; cross-border employer/worker networks",
+      "query_seeds": "AI economic impact Europe Central Asia; AI outsourcing migration remittances; regional AI investment dependency",
+      "pathways": "Cross-border demand, platforms, capital, migration/remittances, language, energy, trade and regulatory spillovers",
+      "caution": "Include relevant ECA territories beyond six focal countries. State exact country sample; no region-wide inference from one case."
+    },
+    {
+      "id": "GLOBAL",
+      "name": "Global analytical products",
+      "kind": "products",
+      "languages": "English and original publication language; regional-language research where available",
+      "source_families": "ILO; World Bank; IMF; EBRD; OECD; UNCTAD; peer-reviewed research and transparent university working papers",
+      "query_seeds": "AI economic impacts ECA CCA report working paper; generative AI productivity wages SME adoption trade; agentic AI value capture",
+      "pathways": "Empirical effects, adoption/exposure measurement, scenarios, productivity, distribution, institutions and global transmission",
+      "caution": "Original analytical product required, not press-only claims. Record reading depth; test transfer to countries and disclose limits."
+    }
+  ]
+}
