@@ -1,6 +1,7 @@
 # [A short title expressing the central question or stakes]
 
-**[Evidence period]**  
+**[Evidence period]**
+
 [Places covered; what the collection includes. Add a verified record count only if useful.]
 
 ## 1. [A specific proposition or change to investigate]
