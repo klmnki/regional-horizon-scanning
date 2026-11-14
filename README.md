@@ -76,6 +76,14 @@ The `prompt` command combines the daily instructions with your region's configur
 | [config/region.json](config/region.json) | Eight lanes, languages, query seeds and source families |
 | [schemas/registers.json](schemas/registers.json) | Signal, research-product, synthesis and coverage fields |
 | [docs/origin-and-boundaries.md](docs/origin-and-boundaries.md) | What was inspected and what this adaptation changes |
+| [docs/policy-brief-method.md](docs/policy-brief-method.md) | Turn accumulated signals into a short, argument-led policy brief |
+| [prompts/policy-brief.md](prompts/policy-brief.md) | Reusable drafting and reasoning instructions |
+| [templates/policy-brief.md](templates/policy-brief.md) | Working structure for a one-page brief |
+| [examples/policy-brief.md](examples/policy-brief.md) | Fictional example showing how a weak summary becomes a supported argument |
+
+## From scanning to a policy brief
+
+Start with a bounded evidence period and a clear reader question. Compare the mechanisms across cases, choose three or four distinct arguments, and ask what would have to happen for each proposed effect to follow. Then audit each sentence: does it supply evidence, explain the mechanism or clarify the stakes? Keep the prose connected and support each section with one to three compact source links. Approve the wording before designing the page. [Follow the full method](docs/policy-brief-method.md).
 
 No live records, private framing documents, internal workbook links, recipient details or credentials are included. Generated working data stays in the ignored `work/` directory. Review any material you choose to publish separately. The original automations and registers are unaffected.
 

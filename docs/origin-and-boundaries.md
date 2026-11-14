@@ -24,6 +24,8 @@ This inspection was not a fresh source audit of every signal, a test of every sc
 
 These tools make the method easier to demonstrate and check; they were not the original research engine. The original engine was a scheduled, tool-using assistant.
 
+On 14 November 2026, the kit added a distilled policy-brief workflow from the associated drafting and review exercise: argument cards, causal questions, sentence-level editorial review, compact source links, text approval before layout and export checks. It includes newly written instructions and a fictional worked example; it does not republish the original brief or its working records. Regional labels now use geographic wording and the ECA code.
+
 ## What is excluded
 
 No private framing text, original workbook identifiers, correspondence, raw delivery details, recipient addresses, source corpus, live signal records or credentials are distributed. Original registers, automations and frozen legacy snapshots are unchanged. This kit neither submits findings nor grants permission to send email or publish research.
