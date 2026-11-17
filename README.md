@@ -2,7 +2,9 @@
 
 A practical way to follow how AI is changing economies across countries, keep the evidence organised, and ask better questions about what might happen next.
 
-This kit recreates the method used by an AI × Economy scan covering **Ukraine, Kazakhstan, Uzbekistan, Armenia, Türkiye and Moldova**, alongside a **regional lane** and a **global research lane**. It is an independently prepared workflow kit, not an official institutional product.
+This kit recreates the method used by an AI × Economy scan covering **Ukraine, Kazakhstan, Uzbekistan, Armenia, Türkiye and Moldova**, alongside a **regional lane** and a **global research lane**.
+
+**An independent personal project.** Developed and shared in my personal capacity; it does not represent an official institutional product or endorsement.
 
 ## How it works, in simple terms
 
@@ -86,6 +88,12 @@ The `prompt` command combines the daily instructions with your region's configur
 Start with a bounded evidence period and a clear reader question. Compare the mechanisms across cases, choose three or four distinct arguments, and ask what would have to happen for each proposed effect to follow. Then audit each sentence: does it supply evidence, explain the mechanism or clarify the stakes? Keep the prose connected and support each section with one to three compact source links. Approve the wording before designing the page. [Follow the full method](docs/policy-brief-method.md).
 
 No live records, private framing documents, internal workbook links, recipient details or credentials are included. Generated working data stays in the ignored `work/` directory. Review any material you choose to publish separately. The original automations and registers are unaffected.
+
+## About the author
+
+I’m **Ievgen Kylymnyk**, a public-sector innovation and policy practitioner working with strategic foresight and AI. My experience spans government reform, parliamentary foresight and experimentation with cities. I’m interested in how institutions notice change, question their assumptions and turn emerging evidence into decisions. This repository shares methods and tools I develop for that work, so others can use, test and improve them.
+
+[LinkedIn](https://www.linkedin.com/in/ievgen-kylymnyk/) · [GitHub](https://github.com/klmnki)
 
 ## Reuse
 
